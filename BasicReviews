@@ -1,0 +1,12 @@
+Backtracking: 10503
+Dynamic Programming: 10943
+Kruskal's MST: 11228
+Dijkstra's SSSP: 1112
+Bellmanford's SSSP: 558
+Warshall's APSP: 11463
+Karp's Max Flow: 11506
+DFS/BFS: 10459
+Eulerian Tour's: 10054
+Augmenting Path for MCBM: 11138
+
+Note: These are starred problems on uHunt.
